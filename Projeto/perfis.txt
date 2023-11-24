@@ -1,0 +1,11 @@
+m16.dat \ NACA/Munk M-16 airfoil \ m16.gif\ \ \ 
+dat: https://m-selig.ae.illinois.edu/ads/coord/m16.dat
+gif: https://m-selig.ae.illinois.edu/ads/afplots/m16.gif
+
+oaf128.dat \ ONERA/Aerospatiale OAF128 Fenestron airfoil \ oaf128.gif\ \ \ 
+dat: https://m-selig.ae.illinois.edu/ads/coord/oaf128.dat
+gif: https://m-selig.ae.illinois.edu/ads/afplots/oaf128.gif
+
+sc20402.dat \ NASA SC(2)-0402 airfoil (NASA TP-2969)\ sc20402.gif\ \ \ ref/sc20402_ref.html
+dat: https://m-selig.ae.illinois.edu/ads/coord/sc20402.dat
+gif: https://m-selig.ae.illinois.edu/ads/afplots/sc20402.gif
